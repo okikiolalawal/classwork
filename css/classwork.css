@@ -1,0 +1,30 @@
+body{
+    background-color: #a2a1b1;
+    background-image: url("gle.jpg");
+}
+img{
+    float:left;
+    padding: 10px;
+    margin:0 auto;
+}
+.div1
+{
+    background-color: purple;
+    border: solid black;
+   width: 470px;
+   height: 50px;
+}
+.div2
+{
+    background-color: tomato;
+    border: solid black;
+   width: 450px;
+   height: 50px;
+}
+.div3
+{
+    background-color: blue;
+    border: solid black;
+   width: 450px;
+   height: 50px;
+}
